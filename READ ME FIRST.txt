@@ -1,0 +1,12 @@
+Nama : Hasan Abdullah
+NIM : 180441180029
+Kelas : TI411
+
+WEB PROGRAMMING
+
+Instruction :
+
+1. Buat Database MySQL dengan nama 'hasan-web'
+2. Import file 'hasan-web.sql'
+3. Copy Folder 'latihan-wp' ke dalam Folder 'htdocs'
+4. Buka Browser dan ketik alamat 'localhost/latihan-wp'

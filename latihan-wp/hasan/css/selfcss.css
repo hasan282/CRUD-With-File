@@ -1,0 +1,46 @@
+.bg-lp3i {
+	background-color: #296e01;
+}
+
+.bg-lp3i-gradient {
+	background-color: #296e01;
+	background-image: linear-gradient(0deg, #296e01 10%, #9adb00 100%);
+	background-size: cover;
+}
+
+.title-color {
+	font-family: 'Quicksand', sans-serif;
+	color: #296e01;
+	font-weight: 700;
+}
+
+.word-lp3i {
+	font-family: 'Quicksand', sans-serif;
+	color: #296e01;
+}
+
+.word-lp3i-fade {
+	font-family: 'Quicksand', sans-serif;
+	color: #9fb987;
+}
+
+.shadow-sm {
+	box-shadow: 0 0.125rem 0.25rem 0 rgba(58, 59, 69, 0.2) !important;
+}
+
+.shadow {
+	box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15) !important;
+}
+
+.shadow-lg {
+	box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) !important;
+}
+
+.font-qs {
+	font-family: 'Quicksand', sans-serif;
+}
+
+.font-qs-bold {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 700;
+}
